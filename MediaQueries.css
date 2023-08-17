@@ -1,0 +1,190 @@
+@media(min-width:768px) {
+    .font-40px{
+      font-weight: 700;
+      font-size: 40px;
+      line-height: 47px;
+    }
+    .catg-w{
+     
+      width: 253px;
+      height: 202px;
+   }
+
+   .font-96px{
+    font-family: 'Brusher';
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 115px;
+  }
+
+  .font-64px{
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 96px;
+
+  }
+
+      .font-32px{
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 39px;
+    }
+    
+    .font2-32px{
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 39px;
+  }
+  
+    .fonts-20px{
+
+     font-weight: 400;
+     font-size: 20px;
+    line-height: 23px; 
+    font-weight: bold; 
+
+  }
+
+  .About-img1{
+    height: 375px;
+  }
+
+      
+  .find-farm-img-w
+  {
+      width: 95%;
+  }
+    
+  .width-input{
+    width: 364px;
+  }
+
+  .button-font2{
+    background: #066507; 
+    color: #D5D5D5;  
+    width: 259px;
+    height: 63px;   
+    }
+    .width-258px{
+        width:258px;
+    }
+
+    .width-50{
+      width: 50%;
+   }
+   .width-160px{
+    width:160px;
+   }
+
+   .fruit-width{
+    width: 345px;
+   
+    }
+
+    .width-filter-bn{
+      width:160px;
+      height: 59px;
+      
+      }
+
+    
+  }
+
+  @media(max-width: 760px){
+      .font-40px{
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 47px;
+      text-align: center;
+    }
+
+    .catg-w{
+         
+      width: 200px;
+  
+    }
+
+    .font-96px{
+    font-family: 'Brusher';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 115px;
+  }
+
+  .font-64px{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 96px;
+
+  }
+
+  .font-32px{
+    font-weight: 700;
+   font-size: 25px;
+   line-height: 29px;
+   margin-top:-25px;
+   }
+   .font2-32px{
+    font-weight: 700;
+   font-size: 25px;
+   line-height: 29px;
+ 
+   }
+    
+   .fonts-20px{
+
+       font-weight: 400;
+       font-size: 15px;
+       line-height: 23px; 
+       font-weight: bold; 
+
+     }
+
+     
+    .find-farm-img-w
+    {
+        width: 85%;
+    }
+      
+    .button-font2{
+        background: #066507; 
+        color: #D5D5D5;  
+        width: 159px;
+        height: 63px;   
+        }
+
+        .justify-center-in-sm{
+          justify-content: center;
+        }
+
+        .fruit-width{
+          width: 70%;
+         
+          }
+
+          .width-filter-bn{
+            width:130px;
+            height: 59px;
+            
+            }
+            .margin-sm-div{
+              margin-top:10%;
+            }
+
+            .text-center-in-sm{
+              text-align: center;
+            }
+  }
+
+  
+  
+@media only screen and (max-width: 1000px) {
+   .justify-center-in-sm{
+    justify-content: center;
+    }
+
+    .text-center-in-sm{
+      text-align: center;
+    }
+}
+

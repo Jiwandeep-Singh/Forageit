@@ -1,0 +1,295 @@
+/* .material-bg-image{ 
+  
+    background: url("images/Rectangle\ 3.svg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+    body{
+        font-family: 'Roboto';
+        font-style: normal;
+    }
+
+    .logo{
+        width: 86px;
+        height: 86px;
+    }
+
+    .bg-menu-image{
+        
+        background: url("images/slider.png") no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+    }
+
+  
+
+    .font-20px{
+    
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;  
+    
+    }
+
+   .green-top{
+    background: #066507;
+    width:100%;
+   }
+
+   .padding-top{
+    padding-top:15%;
+    
+   }
+
+ 
+
+   .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    padding-left:4%;
+    color: #D5D5D5;
+    }
+
+    .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+        padding-left:4%;
+        color: #D5D5D5;
+    }
+
+    .form-control::-ms-input-placeholder { /* Microsoft Edge */
+        padding-left:4%;
+        color: #D5D5D5;
+    }
+    .form-control{
+        height: 63px;;
+    }  
+
+
+    .br-45px {
+        border-radius: 45px;
+    }
+
+    .button-font{
+        background: #066507; 
+        color: #D5D5D5;  
+        width: 148px;
+        height: 63px;    
+    }
+
+    .padding-bottom{
+        padding-bottom:12%;
+    }
+
+    .width-84px{
+        width:84px;
+    }
+
+    .bold-text{
+       font-weight: bold;
+    }
+
+    .mg-top{
+        margin-top: -4%;
+    }
+
+    .font-24px{
+    
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .font-14px{
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #A3A3A3;
+
+    }
+
+   .bold{
+    font-weight: bold;
+   }
+   .green{
+    color: #066507;
+   }
+
+   @font-face {
+    font-family:Brusher;
+    src: url(Brusher.ttf);
+  }
+  
+
+  
+
+  .brownish{
+    color: #635729;
+  }
+
+  .pinkish{
+    color:#FF6262;
+  }
+
+  .yellowish{
+    color:#FFBB4C;
+  }
+  .gray{
+    color: #7B7B7B;
+  }
+
+  .grayA9{
+    color: #A9A9A9;;
+  }
+
+ .food-bg{ 
+  
+    background: url("images/Bg\ green\ image.jpg") no-repeat center center; 
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+@font-face {
+    font-family:Anton;
+    src: url(Anton.ttf);
+  }
+
+.font-anton{
+    font-family: Anton;
+    
+}
+
+@font-face {
+    font-family:GOTHIC;
+    src: url(GOTHIC.TTF);
+  }
+
+.font-century-gothic
+{
+    font-family:GOTHIC;
+   
+}
+
+.basket-width{
+    width: 430px;
+   height: 259px;
+}
+
+.footer-logo-w{
+    width: 172px;
+    height: 172px;
+   
+}
+
+.About-img1{
+    width: 549px;
+   
+}
+
+.About-img2{
+    width: 462px;
+   
+}
+
+.font-32px{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.find-farm-bg1{
+    background: url("images/—Pngtree—shading\ pattern\ vector\ vegetables_1774721\ 3.svg") repeat ; 
+   
+    
+}
+
+.pt-set{
+    padding-top:10%;
+}
+
+.create-form{
+    border-radius: 60px;
+    box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.25);
+}
+
+.margin-bottom{
+    margin-bottom: 30%;
+}
+
+.dark-gray{
+    color: #333333;
+
+}
+
+.dark-gray2{
+    color: #6C6C6C;
+}
+
+.width-93px{
+    width:93px;
+}
+
+.font-16px{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.height-69px{
+    height: 69px;
+    width: 200px;
+}
+
+.font-30px{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.button-font2{
+    background: #066507; 
+    color: #D5D5D5;  
+}
+
+.bg-farm-image{
+        
+    background: url("images/slider.png") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.product-w{
+    width: 336px;
+    height: 192px;
+}
+
+.font-28px{
+    
+    font-size: 28px;
+    
+}
+
+.selected-product{
+    display:none;
+}
+.light-green{
+    background: #5E9A4B;
+    border-radius: 14px;
+}
+.width-97px{
+    width: 97px;
+    height:97px;
+}
+
+.cart-input{
+    width: 51px;
+    height: 22px;
+    border: 1px solid #066507;
+}
